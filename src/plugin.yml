@@ -1,0 +1,10 @@
+name: logic1
+main: net.anvilmc.logic01.Main
+version: 1.0
+author: Mirai
+description: logic01
+commands:
+  get-item1:
+    description: get logic item
+    usage: "§cSTAFF ONLY"
+
